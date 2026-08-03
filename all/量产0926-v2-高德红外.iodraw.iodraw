@@ -92,7 +92,7 @@
           <mxGeometry x="363.4199999999999" y="1320" width="238.96" height="70" as="geometry" />
         </mxCell>
         <mxCell id="szrVwW6S9JxJv4aBApn3-76" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;振动台停止&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=center;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="363.42" y="1460" width="240" height="70" as="geometry" />
+          <mxGeometry x="360" y="1480" width="240" height="70" as="geometry" />
         </mxCell>
         <mxCell id="szrVwW6S9JxJv4aBApn3-78" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;调试结束&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=center;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="357.86" y="1598.5" width="240" height="70" as="geometry" />
