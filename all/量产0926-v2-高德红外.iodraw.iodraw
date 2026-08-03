@@ -61,15 +61,6 @@
         <mxCell id="szrVwW6S9JxJv4aBApn3-26" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;I=I+1&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=center;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="30" y="-60" width="238.96" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="szrVwW6S9JxJv4aBApn3-27" value="" style="endArrow=classic;html=1;rounded=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.546;entryY=0.983;entryDx=0;entryDy=0;entryPerimeter=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="szrVwW6S9JxJv4aBApn3-21" edge="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="355.47999999999996" y="210" as="sourcePoint" />
-            <mxPoint x="155.95216000000028" y="219.32000000000016" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="155.48000000000002" y="395" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
         <mxCell id="szrVwW6S9JxJv4aBApn3-30" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;将SR_X中最大值对应的Gyro_gain_coarse[I]写入Gyro_gain_x&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=center;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="365.62" y="690" width="238.96" height="70" as="geometry" />
         </mxCell>
