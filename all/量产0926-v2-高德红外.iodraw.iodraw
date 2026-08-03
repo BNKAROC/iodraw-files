@@ -22,18 +22,6 @@
         <mxCell id="tDkKr4eq3mPhsb2wppAF-178" value="&lt;p style=&quot;line-height: normal; margin: 0pt 0in; text-indent: 0in; direction: ltr; unicode-bidi: embed; word-break: normal; font-size: 16px;&quot;&gt;&lt;span style=&quot;font-size: 16px; letter-spacing: 0pt; vertical-align: baseline;&quot;&gt;开启振动台&lt;/span&gt;&lt;/p&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="399.42" y="-1000" width="160" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="tDkKr4eq3mPhsb2wppAF-194" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=16;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="tDkKr4eq3mPhsb2wppAF-179" target="tDkKr4eq3mPhsb2wppAF-181" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="tDkKr4eq3mPhsb2wppAF-179" value="&lt;p style=&quot;margin-top: 0pt ; margin-bottom: 0pt ; margin-left: 0in ; direction: ltr ; unicode-bidi: embed ; word-break: normal ; font-size: 16px&quot;&gt;OIS Driver 复位&lt;/p&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="399.42" y="-1240" width="160" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="P4koGKT2gcicqwj-vaw2-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="tDkKr4eq3mPhsb2wppAF-181" target="tDkKr4eq3mPhsb2wppAF-178" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="tDkKr4eq3mPhsb2wppAF-181" value="检查OIS校正结果" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="399.41999999999996" y="-1120" width="160" height="40" as="geometry" />
-        </mxCell>
         <mxCell id="tDkKr4eq3mPhsb2wppAF-191" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=16;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="tDkKr4eq3mPhsb2wppAF-184" target="tDkKr4eq3mPhsb2wppAF-185" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
