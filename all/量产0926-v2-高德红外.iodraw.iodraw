@@ -214,9 +214,6 @@
         <mxCell id="BxtgOUU9BP58ZFE2gC7u-10" value="&lt;span style=&quot;letter-spacing: 0pt ; text-indent: 0in&quot;&gt;延时 X3 S&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;horizontal=1;align=center;labelPosition=center;verticalLabelPosition=middle;verticalAlign=middle;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="398.38" y="-400" width="160" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="BxtgOUU9BP58ZFE2gC7u-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="szrVwW6S9JxJv4aBApn3-84" target="szrVwW6S9JxJv4aBApn3-84">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
