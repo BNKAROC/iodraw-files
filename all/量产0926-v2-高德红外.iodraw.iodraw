@@ -92,13 +92,7 @@
           <mxGeometry x="363.4199999999999" y="1320" width="238.96" height="70" as="geometry" />
         </mxCell>
         <mxCell id="szrVwW6S9JxJv4aBApn3-76" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;振动台停止&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=center;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="358.38" y="1460" width="240" height="70" as="geometry" />
-        </mxCell>
-        <mxCell id="szrVwW6S9JxJv4aBApn3-77" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" target="szrVwW6S9JxJv4aBApn3-76" edge="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="479.12" y="1390" as="sourcePoint" />
-            <mxPoint x="478.96" y="1470" as="targetPoint" />
-          </mxGeometry>
+          <mxGeometry x="363.42" y="1460" width="240" height="70" as="geometry" />
         </mxCell>
         <mxCell id="szrVwW6S9JxJv4aBApn3-78" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;调试结束&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=center;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="357.86" y="1598.5" width="240" height="70" as="geometry" />
