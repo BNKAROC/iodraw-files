@@ -275,7 +275,7 @@
           <mxGeometry x="398.38" y="-880" width="160" height="40" as="geometry" />
         </mxCell>
         <mxCell id="BxtgOUU9BP58ZFE2gC7u-10" value="&lt;span style=&quot;letter-spacing: 0pt ; text-indent: 0in&quot;&gt;延时 X3 S&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;horizontal=1;align=center;labelPosition=center;verticalLabelPosition=middle;verticalAlign=middle;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="399.42" y="-760" width="160" height="40" as="geometry" />
+          <mxGeometry x="730" y="-780" width="160" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
