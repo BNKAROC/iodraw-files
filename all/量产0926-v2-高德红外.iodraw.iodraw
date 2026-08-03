@@ -22,20 +22,6 @@
         <mxCell id="tDkKr4eq3mPhsb2wppAF-166" value="&lt;p style=&quot;margin-top: 0pt ; margin-bottom: 0pt ; margin-left: 0in ; direction: ltr ; unicode-bidi: embed ; word-break: normal ; font-size: 16px&quot;&gt;OIS Driver 复位&lt;/p&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="400.00000000000006" y="-1850" width="160" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="tDkKr4eq3mPhsb2wppAF-205" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="tDkKr4eq3mPhsb2wppAF-165" target="tDkKr4eq3mPhsb2wppAF-204" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="481" y="-1688" />
-            </Array>
-            <mxPoint x="480.68" y="-1680" as="sourcePoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="tDkKr4eq3mPhsb2wppAF-197" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="479.4200000000001" y="-1560" as="sourcePoint" />
-            <mxPoint x="479.4200000000001" y="-1480" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="tDkKr4eq3mPhsb2wppAF-196" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" target="tDkKr4eq3mPhsb2wppAF-175" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="479.4200000000001" y="-1440" as="sourcePoint" />
