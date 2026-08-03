@@ -29,7 +29,7 @@
           <mxGeometry x="398.90000000000003" y="-1720" width="158.96" height="40" as="geometry" />
         </mxCell>
         <mxCell id="B40YLIJGHFhqn7x818MK-5" value="&lt;p style=&quot;line-height: normal ; margin: 0pt 0in ; text-indent: 0in ; direction: ltr ; unicode-bidi: embed ; word-break: normal&quot;&gt;&lt;font style=&quot;font-size: 16px;&quot;&gt;Sensor on&amp;nbsp;&lt;/font&gt;&lt;/p&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="399.4200000000001" y="-1950" width="160" height="40" as="geometry" />
+          <mxGeometry x="400.00000000000006" y="-1960" width="160" height="40" as="geometry" />
         </mxCell>
         <mxCell id="B40YLIJGHFhqn7x818MK-12" value="点亮Sensor-配置文件" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="633.3199999999999" y="-1940" width="170" height="20" as="geometry" />
@@ -60,12 +60,6 @@
         </mxCell>
         <mxCell id="szrVwW6S9JxJv4aBApn3-6" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;抓取 OIS ON&amp;nbsp; Image&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=center;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="359.94" y="-180" width="238.96" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="szrVwW6S9JxJv4aBApn3-8" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.464;entryY=0.015;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" edge="1" source="B40YLIJGHFhqn7x818MK-5">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="480" y="-1900" as="sourcePoint" />
-            <mxPoint x="480.27999999999986" y="-1850" as="targetPoint" />
-          </mxGeometry>
         </mxCell>
         <mxCell id="szrVwW6S9JxJv4aBApn3-12" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="szrVwW6S9JxJv4aBApn3-1" target="szrVwW6S9JxJv4aBApn3-6" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
