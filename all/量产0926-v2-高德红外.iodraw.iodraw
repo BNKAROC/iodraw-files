@@ -71,7 +71,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="szrVwW6S9JxJv4aBApn3-15" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;生成要写入Gyro_gain_x的数组Gyro_gain_coarse&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=center;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="364.98" y="-660" width="238.96" height="40" as="geometry" />
+          <mxGeometry x="361.62" y="-760" width="238.96" height="40" as="geometry" />
         </mxCell>
         <mxCell id="szrVwW6S9JxJv4aBApn3-21" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;Gyro_gain_coarse[I]是否为最后一个元素？&lt;/font&gt;" style="rhombus;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="315.47999999999996" y="320" width="320" height="150" as="geometry" />
