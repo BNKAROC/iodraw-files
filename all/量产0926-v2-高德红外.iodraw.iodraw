@@ -1,6 +1,6 @@
 <mxfile host="www.iodraw.com" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Safari/537.36 Edg/151.0.0.0" version="24.7.17">
   <diagram id="EtRG0BNlD9ttdyuZmFzD" name="第 1 页">
-    <mxGraphModel dx="682" dy="2622" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="0" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="989" dy="2750" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="0" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
@@ -80,7 +80,7 @@
           <mxGeometry x="358.9" y="360" width="238.96" height="40" as="geometry" />
         </mxCell>
         <mxCell id="szrVwW6S9JxJv4aBApn3-63" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;Gyro_gain_coarse[I]是否为最后一个元素？&lt;/font&gt;" style="rhombus;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="330" y="1080.68" width="310" height="159.32" as="geometry" />
+          <mxGeometry x="320" y="1080.68" width="320" height="159.32" as="geometry" />
         </mxCell>
         <mxCell id="szrVwW6S9JxJv4aBApn3-65" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;I=0&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="404.42" y="480" width="150" height="40" as="geometry" />
