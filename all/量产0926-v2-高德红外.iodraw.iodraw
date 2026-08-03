@@ -80,7 +80,7 @@
           <mxGeometry x="358.9" y="360" width="238.96" height="40" as="geometry" />
         </mxCell>
         <mxCell id="szrVwW6S9JxJv4aBApn3-63" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;Gyro_gain_coarse[I]是否为最后一个元素？&lt;/font&gt;" style="rhombus;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="330" y="1080.68" width="300" height="149.32" as="geometry" />
+          <mxGeometry x="330" y="1080.68" width="310" height="159.32" as="geometry" />
         </mxCell>
         <mxCell id="szrVwW6S9JxJv4aBApn3-65" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;I=0&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="404.42" y="480" width="150" height="40" as="geometry" />
