@@ -16,17 +16,6 @@
         <mxCell id="tDkKr4eq3mPhsb2wppAF-166" value="&lt;p style=&quot;margin-top: 0pt ; margin-bottom: 0pt ; margin-left: 0in ; direction: ltr ; unicode-bidi: embed ; word-break: normal ; font-size: 16px&quot;&gt;OIS Driver 复位&lt;/p&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="400.00000000000006" y="-1850" width="160" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="tDkKr4eq3mPhsb2wppAF-196" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" target="tDkKr4eq3mPhsb2wppAF-175" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="479.4200000000001" y="-1440" as="sourcePoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="tDkKr4eq3mPhsb2wppAF-195" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="tDkKr4eq3mPhsb2wppAF-175" target="tDkKr4eq3mPhsb2wppAF-179" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="tDkKr4eq3mPhsb2wppAF-175" value="&lt;p style=&quot;line-height: normal ; margin: 0pt 0in ; text-indent: 0in ; direction: ltr ; unicode-bidi: embed ; word-break: normal ; font-size: 16px&quot;&gt;OIS Driver保存&lt;/p&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="399.42" y="-1360" width="160" height="40" as="geometry" />
-        </mxCell>
         <mxCell id="tDkKr4eq3mPhsb2wppAF-192" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=16;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="tDkKr4eq3mPhsb2wppAF-178" target="tDkKr4eq3mPhsb2wppAF-184" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
