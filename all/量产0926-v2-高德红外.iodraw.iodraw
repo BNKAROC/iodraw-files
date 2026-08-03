@@ -62,7 +62,7 @@
           <mxGeometry x="50" y="-120" width="238.96" height="40" as="geometry" />
         </mxCell>
         <mxCell id="szrVwW6S9JxJv4aBApn3-30" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;将SR_X中最大值对应的Gyro_gain_coarse[I]写入Gyro_gain_x&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=center;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="365.62" y="690" width="238.96" height="70" as="geometry" />
+          <mxGeometry x="360" y="240" width="238.96" height="70" as="geometry" />
         </mxCell>
         <mxCell id="szrVwW6S9JxJv4aBApn3-53" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;Gyro_gain_coarse[I]写入Gyro_gain_y&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=center;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="364.46000000000004" y="1010" width="238.96" height="40" as="geometry" />
@@ -191,7 +191,7 @@
           <mxGeometry x="200.00000000000003" y="-30" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="szrVwW6S9JxJv4aBApn3-84" value="是" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="474.52" y="640" width="60" height="30" as="geometry" />
+          <mxGeometry x="468.9" y="190" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="szrVwW6S9JxJv4aBApn3-86" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;否&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="234.52" y="1530" width="60" height="30" as="geometry" />
